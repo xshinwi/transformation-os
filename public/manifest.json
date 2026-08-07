@@ -1,0 +1,18 @@
+{
+  "name": "Transformation OS",
+  "short_name": "TransOS",
+  "description": "Your 1-Year Personal Transformation System",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8F9FA",
+  "theme_color": "#F8F9FA",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
